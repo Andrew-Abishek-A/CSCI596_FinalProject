@@ -12,3 +12,9 @@ The above diagram is the entire system used to generate the droplets and study t
 The molecule is studied by using an infrared laser. When the droplet containing the captured molecule is indent on with the laser at a particular frequency, the molecule resonates and the droplet is evaporated. The free molecule now is ionised and then detected.<br>
 <br>
 Objectives of this project is to calculate the molecular interactions between the dopant and the droplet and visualize the movement of droplet through the system.
+
+# Output
+
+Modeled a system to depict droplet lifecycle from formation to detection.
+
+![gif](out.gif "Animation of lifecycle")
